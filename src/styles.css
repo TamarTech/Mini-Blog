@@ -1,0 +1,26 @@
+*{
+    color: #616060;
+}
+.navbar:hover{
+   text-decoration: 3px #E60965 underline;
+   cursor: pointer;
+   font-size: large;
+}
+h5:hover{
+    text-decoration:3px #E60965 underline ;
+}
+
+.blog-card{
+    text-align:start;
+    width:"80%";
+    background:lavender;
+    box-shadow: 2px 2px 1px rgb(233, 231, 231);
+}
+.blog-card img{
+    text-align: center;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+}

@@ -1,0 +1,54 @@
+{
+  "blogs": [
+    {
+      "id": 0,
+      "src": "https://i.pinimg.com/564x/c8/09/89/c80989528000145c366fa7413975324e--monday-blues-summer-vibes.jpg",
+      "alt": "ocean",
+      "title": "Blue Ocean",
+      "time": "May 24, 2022",
+      "user": "Dory",
+      "description": "About life in the sea and the challenges facing our oceans.",
+      "details": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum."
+    },
+    {
+      "src": "https://media-cdn.tripadvisor.com/media/photo-s/1b/09/b3/68/this-cafe-is-fantastic.jpg",
+      "alt": "food",
+      "user": "Dory",
+      "title": "Fantastic Cafe",
+      "time": "Apr 2, 2022",
+      "description": "What is sold in a café shop?",
+      "details": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "src": "https://i.pinimg.com/originals/99/c3/26/99c3263f0d7f3ca8ced68f724b099b1c.jpg",
+      "alt": "night view",
+      "user": "Dory",
+      "title": "Wellington City Night View | New zealand",
+      "time": "Dec 10, 2021",
+      "description": "New Zealand night sky a magical experience.",
+      "details": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum."
+    },
+    {
+      "id": 3,
+      "src": "https://assets-global.website-files.com/5e42772e6a8cfd42a9715206/609ba87b8dde1152d4a80a7d_1-importance-of-customer-experience.jpg",
+      "alt": "experience",
+      "user": "Dory",
+      "title": "Experience in Aze",
+      "time": "Oct 6, 2021",
+      "description": "The process of living through an event or events.",
+      "details": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum."
+    },
+    {
+      "id": 4,
+      "src": "https://robertfinkelstein.files.wordpress.com/2009/06/green-tree1.jpg",
+      "alt": "tree",
+      "user": "Dory",
+      "title": "Global Leader in Reforestation",
+      "time": "Dec 25, 2021",
+      "description": "Money does not grow on trees, it grows in them.",
+      "details": "The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum."
+    }
+  ]
+}
